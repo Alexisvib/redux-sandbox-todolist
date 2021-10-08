@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
+
+# Purpose of this sandbox
+
+Create a basic todolist: possibility to : 
+- add todo (by pressing the add button or pressing 'enter')
+- check if a todo is resolved
+- delete a todo
+- filter todo or not based on the status resolved
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
